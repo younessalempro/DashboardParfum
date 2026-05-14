@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+.next/
+
+# Env / secrets
+.env
+*.env
+
+# DB / misc
+*.db
+*.sqlite
